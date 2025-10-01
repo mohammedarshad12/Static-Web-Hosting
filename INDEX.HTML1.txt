@@ -1,0 +1,10 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>My Summer Vacation</h1>
+    <p>I'm hosted on Amazon S3!</p>
+    <img src="leopard.jpg" />
+</body>
+</html>
